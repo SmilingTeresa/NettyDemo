@@ -1,0 +1,2 @@
+# RabbitMQDemo
+用来测试客户端与服务端通过RabbitMQ通信
